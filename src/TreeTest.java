@@ -1,4 +1,3 @@
-// Fig. 22.18: TreeTest.java
 // Binary tree test program.
 import com.binarytree.Tree;
 
