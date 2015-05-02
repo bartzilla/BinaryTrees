@@ -1,9 +1,9 @@
 package com.binarytree;
 
 // class Tree definition
-public class Tree< T extends Comparable< T > >
+public class Tree<T extends Comparable<T>>
 {
-    private TreeNode< T > root;
+    private TreeNode<T> root;
 
     // constructor initializes an empty Tree of integers
     public Tree()
@@ -12,12 +12,18 @@ public class Tree< T extends Comparable< T > >
     } // end Tree no-argument constructor
 
     // insert a new node in the binary search tree
-    public void insertNode( T insertValue )
+    public void insertNode(T insertValue)
     {
-        if ( root == null )
-            root = new TreeNode< T >( insertValue ); // create root node
+
+        if (root == null)
+        {
+            root = new TreeNode<T>(insertValue); // create root node
+        }
         else
-            root.insert( insertValue ); // call the insert method
+        {
+            root.insert(insertValue); // call the insert method
+        }
+
     } // end method insertNode
 
     // begin preorder traversal
