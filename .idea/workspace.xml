@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7024feba-33d1-424a-865f-22fc1c4789f1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/binarytree/Tree.java" afterPath="$PROJECT_DIR$/src/com/binarytree/Tree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TreeTest.java" afterPath="$PROJECT_DIR$/src/TreeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7024feba-33d1-424a-865f-22fc1c4789f1" name="Default" comment="" />
     <ignored path="BinaryTrees.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
